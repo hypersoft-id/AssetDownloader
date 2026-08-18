@@ -7,7 +7,7 @@ local ChangeHistoryService = game:GetService("ChangeHistoryService")
 local CoreGui = game:GetService("CoreGui")
 
 -- Plugin configuration - CHANGE THIS TO YOUR DEPLOYED API URL
-local API_BASE_URL = "https://your-app-name.onrender.com/api" -- Replace with your Render URL
+local API_BASE_URL = "https://asset-downloader-eight.vercel.app/api" -- Replace with your Render URL
 local plugin = plugin or script.Parent
 
 -- Create toolbar and button
